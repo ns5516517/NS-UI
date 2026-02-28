@@ -1,0 +1,16 @@
+{
+  "name": "local-registry",
+  "homepage": "http://localhost:3000",
+  "items": [
+    {
+      "name": "use-api-pagination",
+      "type": "hook",
+      "files": [
+        {
+          "path": "registry/hooks/use-api-pagination.ts",
+          "type": "hook"
+        }
+      ]
+    }
+  ]
+}

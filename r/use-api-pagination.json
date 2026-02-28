@@ -1,0 +1,13 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "use-api-pagination",
+  "type": "registry:hook",
+  "title": "Admin Pagination Hook",
+  "description": "URL-synced API pagination hook for Next.js App Router admin panels.",
+  "files": [
+    {
+      "path": "registry/hooks/use-api-pagination.ts",
+      "type": "registry:hook"
+    }
+  ]
+}
